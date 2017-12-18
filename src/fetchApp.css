@@ -1,0 +1,51 @@
+body {
+  padding: 25px;
+  margin: 0 auto;
+  background-color: #CEECF5;
+}
+
+.headerSection{
+  border: 1px solid #CCCCCC;
+}
+
+
+ul.navMenu li{
+  display: inline;
+  list-style-type: none;
+  margin-right: 10px;
+}
+
+ul.navMenu li a{
+  color: #000;
+  display: inline-block;
+  text-decoration: none;
+}
+.mainContainer{
+  border: 2px solid #ddd;
+  padding: 20px;
+}
+
+.userId{
+  width: 50px;
+  display: inline-block
+}
+
+.userName{
+  width: 200px;
+  display: inline-block
+}
+
+.userEmail{
+  width: 250px;
+  display: inline-block
+}
+
+.searchComponent {
+  margin: 20px;
+}
+
+.searchComponent input {
+  border-radius: 3px;
+  width: 30%;
+}
+
